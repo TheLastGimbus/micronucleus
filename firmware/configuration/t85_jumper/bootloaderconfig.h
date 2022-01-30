@@ -4,10 +4,10 @@
  * according to the hardware.
  *
  * Controller type: ATtiny 85 - 16.5 MHz
- * Configuration:   Default configuration
+ * Configuration:   Default configuration with jumper entry
  *       USB D- :   PB3
  *       USB D+ :   PB4
- *       Entry  :   Always
+ *       Entry  :   Jumper
  *       LED    :   None
  *       OSCCAL :   Stays at 16 MHz
  * Note: Uses 16.5 MHz V-USB implementation with PLL

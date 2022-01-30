@@ -3,8 +3,8 @@
 # License: GNU GPL v2 (see License.txt)
 
 # Controller type: ATtiny 85 - 16.5 MHz
-# Configuration:   Default
-# Last Change:     Jun 16,2020
+# Configuration:   Default with jumper entry
+# Last Change:     Jan 30,2022
 
 F_CPU = 16500000
 DEVICE = attiny85
